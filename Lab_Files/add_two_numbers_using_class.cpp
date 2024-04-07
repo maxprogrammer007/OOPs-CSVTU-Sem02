@@ -23,4 +23,4 @@ int main() {
     add.input();
     add.calculate();
     add.output();
-    return 0; } 
+    return 0; }
