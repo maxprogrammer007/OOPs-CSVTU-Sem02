@@ -21,7 +21,7 @@ int main() {
     return 0;
 }
 // Output: Hello, my name is John and I am 25 years old
-
+/*
 // making the class member function more complex.
 #include<iostream>
 #include<string>
@@ -49,4 +49,4 @@ int main() {
     return 0;
 }
 
-// Output: Hello, my name is John and I am 25 years old
+// Output: Hello, my name is John and I am 25 years old*/
