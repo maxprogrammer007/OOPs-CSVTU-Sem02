@@ -1,7 +1,7 @@
 //
 // Created by Administrator on 07-Apr-24.
 //
-include <iostream>
+#include <iostream>
 class Addition {
 private:
     int num1, num2, sum;
@@ -23,4 +23,5 @@ int main() {
     add.input();
     add.calculate();
     add.output();
-    return 0; }
+    return 0; 
+}
