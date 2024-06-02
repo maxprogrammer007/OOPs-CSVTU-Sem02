@@ -7,9 +7,18 @@
 
 #include<cstring>
 #include<iostream>
+using namespace std;
 
 class Hero {
     public:
+    // paramerized constructor called
+    Hero(int Health, int Level){
+        health = Health;
+        level = Level;
+    }
+    Hero(){
+        cout << "Constructor called" << endl;
+    }
     char name[20];
     int health;
     void setName(char n[]) {
