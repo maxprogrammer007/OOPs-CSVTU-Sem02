@@ -17,3 +17,10 @@ int main() {
     cout << x1.getLevel() << endl;
     return 0;
 }
+// Output:
+// 24
+// 44
+// Hero
+// 100
+// 5
+// Process finished with exit code 0
